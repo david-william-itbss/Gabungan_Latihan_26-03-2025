@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <html>
-    <head>Latihan_19_Maret_2025</head>
+    <head>
     <style>
 table, th, td {
   border: 1px solid black;
@@ -9,6 +9,7 @@ table, th, td {
   
 }
 </style>
+</head>
 
     <body>
         <h1>Selamat Datang</h1>
