@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  
+}
+</style>
+</head>
+<body>
+
+<h1>David William</h1>
+<p>Mahasiswa | Prodi Bisnis Digital | Angkatan 2024</p>
+<h2>Tentang saya</h2>
+<p>Saya adalah mahasiswa di kampus ITBSS di program studi Bisnis Digital</p>
+<img src="WhatsApp Image 2021-07-10 at 14.44.37.jpeg" alt="Gambar saya" width="250" height="250">
+<h2>Pendidikan</h2>
+<ul>
+    <li>Lulusan dari SMK Immanuel Pontianak jurusan pemasaran</li>
+</ul>
+<h2>Pengalaman kerja</h2>
+<ul>
+    <li>Belum pernah</li>
+</ul>
+<h2>Keahlian</h2>
+<ul>
+    <li>Tidak ada</li>
+</ul>
+<h2>Kontak</h2>
+<p>Email: davidwilliam@itbss.ac.id</p>
+<P>Github: github.com/david-william-itbss</P><br>
+<br>
+<h2>Jadwal kuliah</h2>
+<table style="width:80%">
+    <tr>
+      <th>Hari</th>
+      <th>Senin</th>
+      <th>Selasa</th>
+      <th>Rabu</th>
+      <th>Kamis</th>
+      <th>Jumat</th>
+    </tr>
+      <tr>
+          <th>1</th>
+          <th>Sistem Basis Data</th>
+          <th>Brand and Social Media Management</th>
+          <th>Pemrograman Web Dasar</th>
+          <th>Prinsip-prinsip Akuntansi</th>
+          <th>Statitiska Bisnis</th>
+      </tr>
+      <tr>
+          <th> </th>
+          <th colspan="5">kosong/break</th>
+      </tr>
+      <tr>
+          <th>2</th>
+          <th> </th>
+          <th>Mikroekomomi</th>
+          <th> </th>
+          <th> </th>
+      </tr>
+      <tr>
+        <th> </th>
+        <th colspan="5">kosong/break</th>
+    </tr>
+    <tr>
+        <th>2</th>
+        <th> </th>
+        <th>Hukum Bisnis</th>
+        <th> </th>
+        <th> </th>
+    </tr>
+  </table>
+
+
